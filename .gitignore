@@ -1,0 +1,12 @@
+# 运行时状态（不随仓库分发）
+*.log
+*.snap
+*.pid
+*.lock
+*.cancel
+paused
+
+# 编辑器/系统
+.DS_Store
+Thumbs.db
+*.swp
